@@ -2,7 +2,7 @@
 
 # What design process did you follow for your project work?
 
-This project was built iteratively, adding new features each week throughout the course. The design was built to encorporate OOP principles, which was useful in maintaining order in this codebase while working with OpenGL (which can get messy).
+This project is a fully textured 3D scene coded directly into the OpenGL API specification. This project was built iteratively, adding new features each week throughout the course. The design was built to encorporate OOP principles, which was useful in maintaining order in this codebase while working with OpenGL (which can get messy).
 
 # What new design skills has your work on the project helped you to craft?
 
